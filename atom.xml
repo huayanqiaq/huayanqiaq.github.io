@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://huayanqiaq.github.io</id>
+    <title>日常随笔</title>
+    <updated>2024-10-15T12:14:01.247Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://huayanqiaq.github.io"/>
+    <link rel="self" href="https://huayanqiaq.github.io/atom.xml"/>
+    <subtitle>记录美好生活做正确的事</subtitle>
+    <logo>https://huayanqiaq.github.io/images/avatar.png</logo>
+    <icon>https://huayanqiaq.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, 日常随笔</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://huayanqiaq.github.io/post/hello-gridea/</id>
+        <link href="https://huayanqiaq.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></content>
+    </entry>
+</feed>
